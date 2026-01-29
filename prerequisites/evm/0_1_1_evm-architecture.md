@@ -1,4 +1,4 @@
-# Understanding EVM Architecture: Stack, Memory, Storage & The Road to zkEVM
+# EVM Architecture: Stack, Memory, Storage & zkEVM Foundations
 
 **Date**: 28 January 2026  
 **Tags**: #EVM #Ethereum #zkEVM #Architecture

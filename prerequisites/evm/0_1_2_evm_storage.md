@@ -1,4 +1,4 @@
-# EVM Storage Deep Dive: Layouts, Packing & Security
+# EVM Storage: Layouts, Packing & zkEVM Challenges
 
 **Date**: 29 January 2026  
 **Tags**: #EVM #Storage #Security #zkEVM
