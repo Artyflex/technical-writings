@@ -9,7 +9,7 @@
 
 Storage is the most critical EVM component for three reasons: it's persistent (bugs cause permanent damage), expensive (20,000 gas for cold writes), and complex to prove in zkEVM (requires Merkle proofs). This article explores how storage works, optimization techniques, real vulnerabilities, and why storage is the hardest part of zkEVM to prove.
 
-This is Part 2 of the EVM Internals series. Read [Part 1: EVM Architecture](https://github.com/Artyflex/technical-writings/blob/main/prerequisites/evm/evm-architecture.md) if you haven't already.
+This is Part 2 of the EVM Internals series. Read [Part 1: EVM Architecture](https://github.com/Artyflex/technical-writings/blob/main/prerequisites/evm/0_1_1_evm-architecture.md) if you haven't already.
 
 ---
 
