@@ -32,11 +32,15 @@ Coming from a Solidity security auditing background, I approach each topic with 
 technical-writings/
 ├── prerequisites/
 │   ├── evm/
-│   │   └── understanding-evm-architecture.md
+│   │   ├── 0_1_1_evm-architecture.md
+│   │   ├── 0_1_2_evm-storage.md
+│   │   ├── 0_1_3_evm-memory-abi-encoding.md
+│   │   ├── 0_1_4_evm-opcodes.md
+│   │   └── 0_1_5_evm-bytecode_analyzer_tool.md
 │   ├── math/          (coming soon)
 │   └── rust/          (coming soon)
 ├── zk-fundamentals/   (coming soon)
-├── zk-evm/             (coming soon)
+├── zk-evm/            (coming soon)
 └── README.md
 ```
 
@@ -55,4 +59,4 @@ All articles are published under [CC BY 4.0](https://creativecommons.org/license
 
 ---
 
-*Last updated: January 28, 2026*
+*Last updated: 9th of February 2026*
